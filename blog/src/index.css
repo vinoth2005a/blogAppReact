@@ -1,0 +1,10 @@
+/* index.css — you can customize this */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #faf9f9;
+}
+
+h1, h2 {
+  margin: 0;
+}
